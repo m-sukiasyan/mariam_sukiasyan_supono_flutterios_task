@@ -1,0 +1,7 @@
+CREATE TABLE user (
+  id INT NOT NULL PRIMARY KEY DEFAULT 1,
+  username TEXT NULL,
+  birthday TEXT NULL,
+  gender TEXT NULL,
+  photo TEXT NULL
+) As UserTable;

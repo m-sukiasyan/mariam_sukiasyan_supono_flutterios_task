@@ -1,0 +1,4 @@
+enum SettingsItemType {
+  item,
+  section
+}
