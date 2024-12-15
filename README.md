@@ -1,16 +1,12 @@
 # mariam_sukiasyan_supono_flutterios_task
 
-A new Flutter project.
+Flutter version 3.27.0
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This repository contains the source code for a Flutter project created as part of a technical assessment. The app is designed with a focus on:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- User Onboarding
+- Camera Integration
+- Settings Management
+It provides a seamless user experience across both iOS and Android platforms.
